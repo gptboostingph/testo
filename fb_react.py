@@ -61,23 +61,4 @@ for i in range(coords["account_count"]):
         if i < coords["account_count"] - 1:
             switch_account()
     else:
-        print("[-] Reaction failed, skipping account switch.")
-💬 Let Me Know:
-Would you like me to:
-
-✅ Repackage this into a clean .zip again?
-
-🛑 Add a stop prompt (e.g. Type stop to end after each loop)?
-
-🔁 Add looping through a list of post links instead of just one?
-
-You're super close now — just need to run the clean .py and you're good to go.
-
-
-
-
-
-
-
-
-
+        print("[-] Reaction failed, skipping account switch."
